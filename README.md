@@ -1,3 +1,2 @@
 # JS-Calculator
-JavaScript Calculator by Kato Desire.
-[JS-Calculator](https://katodesire63.github.io/JS-Calculator/)
+[JavaScript Calculator](https://katodesire63.github.io/JS-Calculator/) by Kato Desire.
